@@ -8,3 +8,8 @@
 
 [Case Study #8 Fresh Segments](https://github.com/Shailesh-python/Case-Study-8-Fresh-Segments)
 
+[Case Study #9 Olympic History](https://github.com/Shailesh-python/OlympicHistory)
+
+[Case Study #10 Northwind Dateset](https://github.com/Shailesh-python/NorthWind_57_SQL_Question)
+
+[Case Study #11 Cryptocurrency](https://github.com/Shailesh-python/Cryptocurrency)
