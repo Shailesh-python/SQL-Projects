@@ -1,5 +1,8 @@
 # SQL Projects
 
+<img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)'/>
+
+
 [Case Study #1 Danny's Diner](https://github.com/Shailesh-python/Case-Study-1-Dannys-Diner)
 
 [Case Study #2 Pizza Runner](https://github.com/Shailesh-python/Case-Study-2-Pizza-Runner)
