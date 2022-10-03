@@ -1,3 +1,5 @@
+# SQL Projects
+
 [Case Study #1 Danny's Diner](https://github.com/Shailesh-python/Case-Study-1-Dannys-Diner)
 
 [Case Study #2 Pizza Runner](https://github.com/Shailesh-python/Case-Study-2-Pizza-Runner)
